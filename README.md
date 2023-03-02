@@ -1,6 +1,8 @@
 # ToDo
 ToDo is a simple app that allows you to create a list of tasks and mark them as completed when you're done. You can also delete tasks from the list if you no longer need to do them.
 
+<img src="[https://github.com/raufzer/raufzer/blob/main/Programming%20Languages.png](https://github.com/raufzer/ToDo_App/blob/main/ToDo%20App%20Design.png)"/>
+
 ## Getting Started
 To get started with this project, follow these steps:
 
