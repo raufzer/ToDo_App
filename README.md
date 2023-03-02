@@ -1,6 +1,4 @@
 # ToDo
-ToDo is a simple app that allows you to create a list of tasks and mark them as completed when you're done. You can also delete tasks from the list if you no longer need to do them.
-
 <img src="https://github.com/raufzer/ToDo_App/blob/main/ToDo%20App%20Design.png"/>
 
 ## Getting Started
@@ -29,8 +27,6 @@ To use this app, follow these steps:
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
-This project was created as a way to practice building a simple Flutter app and learning more about mobile app development. We would like to thank the Flutter community and the resources that inspired this app.
 
 
 
